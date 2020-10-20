@@ -1,4 +1,4 @@
-package com.tyw.DesignPattern;
+package com.tianyongwei.DesignPattern;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
