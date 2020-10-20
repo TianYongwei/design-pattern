@@ -9,8 +9,8 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.tianyongwei</groupId>
-	<artifactId>pattern</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>DesignPattern</artifactId>
+	<version>0.1</version>
 	<name>design-pattern</name>
 	<description>设计模式练习</description>
 
